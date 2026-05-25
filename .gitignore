@@ -1,0 +1,16 @@
+*.exe
+*.o
+*.obj
+*.out
+
+bin/
+lib/
+build/
+
+hello.cpp
+compile-result.txt
+derleme-hatasi.txt
+
+.vscode/
+.DS_Store
+Thumbs.db
